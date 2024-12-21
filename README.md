@@ -43,4 +43,4 @@ Explore the [CyberVest Prototype](https://rb.gy/dsilt2) to see an early version 
 
 ## Contribution
 
-We welcome collaborators passionate about cybersecurity and EdTech. Whether you're a developer, designer, or a cybersecurity expert, your expertise can help shape CyberVest into a 
+We welcome collaborators passionate about cybersecurity and EdTech. Whether you're a developer, designer, or a cybersecurity expert, your expertise can help shape CyberVest into a functional robust platform. For contributions, partnerships, funding and start-up contract nafbusiness71@gmail.com
